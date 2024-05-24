@@ -1,6 +1,7 @@
 # credit-risk-classification
 
-An overview of the analysis: Explain the purpose of this analysis.
+Overview:
+
 The purpose of this analysis is to assess a Machine Learning Model through logistic regression. Focusing on loan size, interest rate, income, debt to income ration, accounts, derogatory marks, and total debts - the model can predict the loan status as either a "healthy loan" or "high-risk loan."
 
 Machine Learning Info:
